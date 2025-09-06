@@ -20,7 +20,7 @@ This project allows patients to browse doctors, book appointments, and view conf
 - **Frontend Framework:** React.js  
 - **Styling:** Tailwind CSS  
 - **Build Tool:** Vite / Create React App (whichever you used)  
-- **Year:** 2024  
+- **Year:** 2025  
 
 ---
 
@@ -46,7 +46,7 @@ doctor-appointment-react/
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/doctor-appointment-react.git
+   git clone https://github.com/Hari-Veera/To-do-List.git
    ```
 
 2. **Navigate to the project folder**:  
@@ -76,16 +76,16 @@ doctor-appointment-react/
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](src/assets/screenshots/homepage.png)
 
 ### All Doctors Page
-![All Doctors Page](screenshots/alldoctorspage.png)
+![All Doctors Page](src/assets/screenshots/alldoctorspage.png)
 
 ### About Us Page
-![About Us Page](screenshots/aboutpage.png)
+![About Us Page](src/assets/screenshots/aboutpage.png)
 
 ### Contact Us Page
-![Contact Us Page](screenshots/contactpage.png)
+![Contact Us Page](src/assets/screenshots/contactpage.png)
 
 
 ---
