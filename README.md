@@ -117,27 +117,6 @@ npm run build   → Build for production
 
 ---
 
-## API Endpoints
-
-Auth  
-POST /api/auth/register – Register new user  
-POST /api/auth/login – Login user  
-
-Doctors  
-GET /api/doctors – Get all doctors  
-GET /api/doctors/:id – Get doctor details  
-POST /api/doctors – Add new doctor (admin)  
-PUT /api/doctors/:id – Update doctor  
-DELETE /api/doctors/:id – Delete doctor (admin)  
-
-Appointments  
-POST /api/appointments – Book appointment  
-GET /api/appointments – Get all appointments  
-PUT /api/appointments/:id – Update appointment  
-DELETE /api/appointments/:id – Cancel appointment  
-
----
-
 ## Deployment
 
 1. Frontend – build using:  
