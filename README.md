@@ -29,7 +29,7 @@ Optional: Stripe (payments), Cloudinary (image upload)
 ---
 
 ## Folder Structure
-
+```
 project-root/
 │
 ├── frontend/                  → React frontend for users/patients
@@ -61,7 +61,7 @@ project-root/
 ├── .env.example
 ├── README.md
 └── package.json
-
+```
 ---
 
 ## Installation
