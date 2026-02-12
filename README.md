@@ -128,12 +128,33 @@ npm run build   → Build for production
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/Home-Page.png)
+
+---
+
+### 👨‍⚕️ All Doctors Page
+![All Doctors Page](screenshots/AllDoctors-Page.png)
+
+---
+
+### ℹ️ About Page
+![About Page](screenshots/About-Page.png)
+
+---
+
+### 📞 Contact Page
+![Contact Page](screenshots/Contact-Page.png)
+
+---
+
 ## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## Author
-
-Developed as part of a MERN stack tutorial project on building a Doctor Appointment Booking System.
+## 👤 Author
+Medipudi Hari Veera
